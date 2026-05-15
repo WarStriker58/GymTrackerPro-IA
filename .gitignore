@@ -1,0 +1,47 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local configuration
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Kotlin / Java
+*.class
+
+# Native builds
+.externalNativeBuild/
+.cxx/
+
+# Android generated
+captures/
+
+# Keystores
+*.jks
+*.keystore
+
+# Firebase / Google services
+google-services.json
+
+# Navigation Safe Args
+.navigation/
+
+# Room database schemas (opcional)
+schemas/
+
+# APK / AAB builds
+*.apk
+*.aab
